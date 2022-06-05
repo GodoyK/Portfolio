@@ -18,15 +18,17 @@
 			<article>
 				<header>   
 					<h3 class= "post_title"> Post #1 </h3>
-					<img src="kelly-godoy_01." alt ="">
+					<img src="kelly-godoy_01.jpg" alt ="">
 				</header>
-				<p>   </p>
+				<p> 
+					<img src="img/kelly-godoy_01.jpg" alt ="foto de rosto de Kelly Godoy">  
+				</p>
 			</article>
 		</section>
 		<footer>   </footer>
 	
 		<script src="js/bootstrap.js"> </script>
-		
+
 	</body>
 	
 
