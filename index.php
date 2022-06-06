@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html>
-
+<html lang=¨pt-br¨>
 	<head>
 		<meta charset="utf8">
-		<title>Kelly Godoy - Site Oficial</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Kelly Godoy</title>
 			<link rel="stylesheet" href="css/bootstrap.css">
 	</head>
 	
 	<body>
 	
 		<header>
-			<img src="kelly-godoy_01.jpg" alt="Foto do rosto de Kelly Godoy">
+
 				<h1>Kelly Godoy</h1>
 		</header>
 		<section>   </section>
@@ -18,7 +18,6 @@
 			<article>
 				<header>   
 					<h3 class= "post_title"> Post #1 </h3>
-					<img src="kelly-godoy_01.jpg" alt ="">
 				</header>
 				<p> 
 					<img src="img/kelly-godoy_01.jpg" alt ="foto de rosto de Kelly Godoy">  
