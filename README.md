@@ -1,2 +1,2 @@
 # 📰 Portfolio
-💻 _Aqui você poderá conferir alguns projetos já realizados, além do meu site-curriculum_
+💻 _Aqui no meu site você poderá conferir alguns projetos já realizados e o meu curriculum.
