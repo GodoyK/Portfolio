@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: rgb(107, 28, 180);
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    background-color: orangered;
+    border: 1px solid #f1f1f1;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+input {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: rgb(163, 163, 163);
+  }
